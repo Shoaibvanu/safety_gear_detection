@@ -2,4 +2,7 @@ numpy==1.26.4
 opencv-python== 4.8.0.76
 streamlit==1.32.2
 torch==1.10.0
-
+libgl1
+libsm6
+libxext6
+libxrender1
