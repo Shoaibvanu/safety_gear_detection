@@ -1,7 +1,7 @@
-opencv-python
-torch
-numpy
-streamlit
+opencv-python==4.5.5.64
+torch==1.11.0
+numpy==1.21.6
+streamlit==1.10.0
 libsm6
 libxext6
 libxrender-dev
