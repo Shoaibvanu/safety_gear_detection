@@ -1,4 +1,6 @@
-opencv-python==4.5.5.64
-torch==2.2.2
-numpy==2.0.0b1
-streamlit==1.10.0
+opencv-python==4.6.0.66
+torch==1.13.1
+numpy==1.23.5
+streamlit==1.17.0
+libgl1-mesa-glx
+libglib2.0-0
